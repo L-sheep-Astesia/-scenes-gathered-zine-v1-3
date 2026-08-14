@@ -12,7 +12,7 @@
 | 原始 GitHub 仓库 | Zeejay0/gathered-scenes-zine-skill |
 | 原始 Skill 名称 | `scenes-gathered-zine-v1-3` |
 | 转载整理来源 | QJSEric/duoduo-picture-skill |
-| 本仓库适配工作 | shepter羊（适配至豆包工作任务Turbo平台） |
+| 本仓库适配工作 | L-sheep-Astesia（适配至豆包工作任务Turbo平台） |
 | 原始许可证 | Gathered Scenes Zine Personal Non-Commercial License |
 
 ## 适配说明
